@@ -37,7 +37,7 @@
     "uniq": "^1.0.1"
   },
   "dependencies": {
-    "bit-twiddle": "^1.0.2",
-    "@jpweeks/typedarray-pool": "^1.1.0"
+    "@jpweeks/typedarray-pool": "^2.0.0",
+    "bit-twiddle": "^1.0.2"
   }
 }
