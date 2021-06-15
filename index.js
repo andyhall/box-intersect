@@ -2,7 +2,7 @@
 
 module.exports = boxIntersectWrapper
 
-var pool = require('typedarray-pool')
+var pool = require('@jpweeks/typedarray-pool')
 var sweep = require('./lib/sweep')
 var boxIntersectIter = require('./lib/intersect')
 
